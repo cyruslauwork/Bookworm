@@ -65,14 +65,14 @@
 			children = (
 				6E3BC73B28539A2A00956761 /* BookwormApp.swift */,
 				6E3BC73D28539A2A00956761 /* ContentView.swift */,
-				6E3BC73F28539A2E00956761 /* Assets.xcassets */,
-				6E3BC74128539A2E00956761 /* Preview Content */,
-				6E3BC74928539A5C00956761 /* Bookworm.xcdatamodeld */,
 				6E3BC74C28539AB700956761 /* AddBookView.swift */,
 				6E3BC74E28539B0F00956761 /* DataController.swift */,
 				6E3D69992856DF6D008A7251 /* RatingView.swift */,
 				6E3D699B2856E4AC008A7251 /* EmojiRatingView.swift */,
 				6E3D699D2856F306008A7251 /* DetailView.swift */,
+				6E3BC74928539A5C00956761 /* Bookworm.xcdatamodeld */,
+				6E3BC73F28539A2E00956761 /* Assets.xcassets */,
+				6E3BC74128539A2E00956761 /* Preview Content */,
 			);
 			path = Bookworm;
 			sourceTree = "<group>";
